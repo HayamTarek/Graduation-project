@@ -17,6 +17,4 @@ for the Accuracy, precision, Recall, F1_score respectively.
 # Machine Learning Proposed Model
 ![image](https://github.com/HayamTarek/Graduation-project/assets/125991048/0bc9dff6-f852-4610-b059-d6f96efe5ca3)
 # Model Comparison
-![image](https://github.com/HayamTarek/Graduation-project/assets/125991048/e8119b2c-a078-42b8-9fec-0f02501553a6)
-
-
+![image](https://github.com/HayamTarek/Graduation-project/assets/125991048/5250bd29-66eb-41ed-84e9-d5f2539f99a1)
