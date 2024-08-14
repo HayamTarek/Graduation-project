@@ -36,9 +36,8 @@ The project repository is organized as follows:
 The project relies on the following Python libraries:
   * pandas
   * numpy
-  * scikit-learn
   * matplotlib
-  * seaborn
+  * sklearn
 ## Machine Learning Proposed Model
 ![image](https://github.com/HayamTarek/Graduation-project/assets/125991048/0bc9dff6-f852-4610-b059-d6f96efe5ca3)
 ## Model Comparison
